@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **anupriyapoddar2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uZcnqWKH13k5ZVuJvCKnX04NtiLx-vqo/view?usp=drivesdk](https://drive.google.com/file/d/1uZcnqWKH13k5ZVuJvCKnX04NtiLx-vqo/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/go4ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="go4ap" height="30" width="40" /></a>
