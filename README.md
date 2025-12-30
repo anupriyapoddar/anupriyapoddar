@@ -1,4 +1,4 @@
-## Hi, I’m Anupriya 👋
+## Hi, I’m Anupriya 🌻
 
 🎓 Computer Science graduate (2025)  
 💻 Software Engineer | Backend & ML-focused  
