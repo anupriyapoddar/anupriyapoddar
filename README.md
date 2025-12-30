@@ -2,7 +2,7 @@
 
 🎓 Computer Science graduate (2025)  
 💻 Software Engineer | Backend & ML-focused  
-🔬 ML Intern @ IIT Delhi | VV2024 @ TIFR | Research Intern @ IIT Patna  
+🔬 ML Intern @ IIT Delhi 2025 | VV2024 @ TIFR | Research Intern @ IIT Patna 2023  
 
 I enjoy building clean, well-structured systems and learning deeply by working on real-world projects.  
 My interests lie in backend engineering, applied machine learning, and writing maintainable code.
