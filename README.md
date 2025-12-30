@@ -33,11 +33,11 @@ Spring Boot backend for metals trading with secure authentication, real-time pri
 🔹 **HealthCare CKD Classifier**  
 End-to-end machine learning pipeline with preprocessing, model training, and Streamlit-based deployment for clinical datasets.
 
-🔹 **Java Music Player**  
-Console-based music player using Java Sound API supporting play, pause, resume, and reset functionality.
-
 🔹 **Java Hangman Game**  
 File-driven console game implementing game logic, input handling, and clean control flow.
+
+🔹 **Java Music Player**  
+Console-based music player using Java Sound API supporting play, pause, resume, and reset functionality.
 
 ---
 
