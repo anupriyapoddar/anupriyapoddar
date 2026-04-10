@@ -1,8 +1,8 @@
 ## Hi, I’m Anupriya 🌻
 
 🎓 Computer Science graduate (2025)  
-💻 Software Engineer | Backend & ML-focused  
-🔬 ML Intern @ IIT Delhi 2025 | VV2024 @ TIFR | Research Intern @ IIT Patna 2023  
+💻 Software Engineer | Backend Focused  
+🔬 Software Engineering Intern (Distributed ML Systems) @ IIT Delhi 2025 | VV2024 @ TIFR | Research Intern @ IIT Patna 2023  
 
 I enjoy building clean, well-structured systems and learning deeply by working on real-world projects.  
 My interests lie in backend engineering, applied machine learning, and writing maintainable code.
@@ -14,14 +14,14 @@ My interests lie in backend engineering, applied machine learning, and writing m
 **Languages**
 - Java, Python, C++, JavaScript
 
-**Backend & Frameworks**
-- Spring Boot, Node.js, REST APIs, JWT Authentication
+**Backend & Databases**
+- Spring Boot, RESTful APIs, JWT, JDBC, MySQL, PostgreSQL, MongoDB
 
-**Machine Learning**
-- Scikit-learn, PyTorch Geometric, Pandas, NumPy
+**Developer Tools**
+- : Git, Docker, Postman, CI/CD, Swagger, AWS
 
-**Databases & Tools**
-- MySQL, MongoDB, AWS, Git, Linux
+**Core & CS Concepts**
+- : Data Structures & Algorithms, OOPs, Computer Networking, Operating Systems, System Design Fundamentals, SOLID principles
 
 ---
 
