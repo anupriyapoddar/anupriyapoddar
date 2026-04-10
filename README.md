@@ -18,10 +18,10 @@ My interests lie in backend engineering, applied machine learning, and writing m
 - Spring Boot, RESTful APIs, JWT, JDBC, MySQL, PostgreSQL, MongoDB
 
 **Developer Tools**
-- : Git, Docker, Postman, CI/CD, Swagger, AWS
+- Git, Docker, Postman, CI/CD, Swagger, AWS
 
 **Core & CS Concepts**
-- : Data Structures & Algorithms, OOPs, Computer Networking, Operating Systems, System Design Fundamentals, SOLID principles
+- Data Structures & Algorithms, OOPs, Computer Networking, Operating Systems, System Design Fundamentals, SOLID principles
 
 ---
 
