@@ -27,23 +27,20 @@ My interests lie in backend engineering, applied machine learning, and writing m
 
 ## 📌 Featured Projects
 
+🔹 **FinTrackr**  
+A Spring Boot + MongoDB backend system for managing company-level financial data, providing real-time insights, and enforcing role-based access control.
+
 🔹 **Gold-Broker App**  
-Spring Boot backend for metals trading with secure authentication, real-time pricing integration, and scalable service-layer architecture.
+Spring Boot backend for metals trading with JWT authentication, REST APIs, and real-time pricing integration.
 
 🔹 **HealthCare CKD Classifier**  
 End-to-end machine learning pipeline with preprocessing, model training, and Streamlit-based deployment for clinical datasets.
-
-🔹 **Java Hangman Game**  
-File-driven console game implementing game logic, input handling, and clean control flow.
-
-🔹 **Java Music Player**  
-Console-based music player using Java Sound API supporting play, pause, resume, and reset functionality.
 
 ---
 
 ## 🧠 Experience & Research
 
-- **Machine Learning Intern — IIT Delhi (2025)**  
+- **Software Engineering Intern (Distributed ML Systems) — IIT Delhi (2025)**  
   Worked on graph compression and GNN acceleration, achieving significant training speedups on large-scale datasets.
 
 - **Vigyan Vidushi Program — TIFR Mumbai (2024)**  
@@ -55,8 +52,7 @@ Console-based music player using Java Sound API supporting play, pause, resume, 
 ---
 
 ## 📈 Coding & Learning
-
-- Solved **100+ problems** on LeetCode and GFG  
+ 
 - Actively strengthening DSA, backend design, and system fundamentals  
 - Believe in *learning by building* rather than passive tutorials
 
