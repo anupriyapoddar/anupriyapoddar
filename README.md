@@ -62,7 +62,6 @@ End-to-end machine learning pipeline with preprocessing, model training, and Str
 
 - 📧 Email: anupriyapoddar.work@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/anupriyapoddar  
-- 🧑‍💻 substack: https://substack.com/@anupriyapoddar?utm_campaign=profile&utm_medium=profile-page
 
 ---
 
